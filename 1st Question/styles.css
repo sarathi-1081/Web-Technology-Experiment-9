@@ -1,0 +1,48 @@
+* {
+  color: blue;
+}
+
+body {
+  color: blue;
+  left: 37%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+span {
+  color: red;
+}
+form {
+  position: absolute;
+  width: 500px;
+}
+
+input,
+button {
+  position: absolute;
+  left: 140px;
+  color: black;
+}
+.alert {
+  position: absolute;
+  left: 320px;
+}
+label {
+  position: absolute;
+  left: 160px;
+}
+#t1 {
+  position: absolute;
+  left: 220px;
+}
+#t2 {
+  position: relative;
+}
+select {
+  position: absolute;
+  left: 140px;
+  color: black;
+  width: 120px;
+}
+#btn {
+  color: black;
+}
